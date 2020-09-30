@@ -13,3 +13,5 @@ CHANGES.txt
 *.viminfo
 .libs/
 .idea/
+.vscode
+build
